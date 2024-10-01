@@ -1,0 +1,13 @@
+ul li{
+    color: red;
+} 
+
+.box{
+    width: 5rem;
+    height: 5rem;
+    background-color:blueviolet;
+}
+.rounded{
+    background-color: plum;
+    rotate: 20deg;
+}
