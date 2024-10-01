@@ -1,17 +1,17 @@
 # React + Vite<br>
-Primi passi su `React`.<br>
+Primi passi su `React`. <br>
 
 - Installazione:<br> 
-    1. <br> 
+    1. 
     se vogliamo creare una nuova cartella<br> 
     `npm create vite@latest my-vue-app --template react`<br> 
     se vogliamo lavorare sulla cartella corrente<br> 
     `npm create vite@latest . --template react`<br> 
-    2. <br>
+    2. 
     sceglere `React`<br> 
-    3. <br>
+    3. 
     scegliere `JavaScript`<br> 
-    4. <br> 
+    4. 
     `npm install`<br> 
     `npm run dev`<br>
 
